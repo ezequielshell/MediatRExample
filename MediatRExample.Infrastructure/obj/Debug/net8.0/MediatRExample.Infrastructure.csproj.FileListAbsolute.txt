@@ -1,0 +1,16 @@
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\bin\Debug\net8.0\MediatRExample.Infrastructure.deps.json
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\bin\Debug\net8.0\MediatRExample.Infrastructure.dll
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\bin\Debug\net8.0\MediatRExample.Infrastructure.pdb
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\bin\Debug\net8.0\MediatRExample.Domain.dll
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\bin\Debug\net8.0\MediatRExample.Domain.pdb
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\obj\Debug\net8.0\MediatRExample.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\obj\Debug\net8.0\MediatRExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\obj\Debug\net8.0\MediatRExample.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\obj\Debug\net8.0\MediatRExample.Infrastructure.AssemblyInfo.cs
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\obj\Debug\net8.0\MediatRExample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\obj\Debug\net8.0\MediatRExample.Infrastructure.sourcelink.json
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\obj\Debug\net8.0\MediatRExample.Infrastructure.csproj.CopyComplete
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\obj\Debug\net8.0\MediatRExample.Infrastructure.dll
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\obj\Debug\net8.0\refint\MediatRExample.Infrastructure.dll
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\obj\Debug\net8.0\MediatRExample.Infrastructure.pdb
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Infrastructure\obj\Debug\net8.0\ref\MediatRExample.Infrastructure.dll

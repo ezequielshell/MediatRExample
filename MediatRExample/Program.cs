@@ -1,6 +1,10 @@
 
+using Application;
+using MediatR;
 using MediatRExample.Domain.Data;
+using MediatRExample.Infrastructure.Repository;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace MediatRExample
 {
@@ -13,9 +17,15 @@ namespace MediatRExample
             builder.Services.AddDbContext<AppDbContext>(options =>
                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+            var assembly = Assembly.GetExecutingAssembly();
+            builder.Services.AddMediatR(assembly);
+
+            builder.Services.AddApplication();
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 
             var app = builder.Build();
 

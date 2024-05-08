@@ -4,6 +4,74 @@
     "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample\\MediatRExample.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\Application\\MediatRExample.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\Application\\MediatRExample.Application.csproj",
+        "projectName": "MediatRExample.Application",
+        "projectPath": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\Application\\MediatRExample.Application.csproj",
+        "packagesPath": "C:\\Users\\Lyncas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lyncas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Domain\\MediatRExample.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Domain\\MediatRExample.Domain.csproj"
+              },
+              "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Infrastructure\\MediatRExample.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Infrastructure\\MediatRExample.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Domain\\MediatRExample.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -40,9 +108,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "MediatR": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[12.2.0, )"
+              "version": "[11.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -63,6 +131,71 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Infrastructure\\MediatRExample.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Infrastructure\\MediatRExample.Infrastructure.csproj",
+        "projectName": "MediatRExample.Infrastructure",
+        "projectPath": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Infrastructure\\MediatRExample.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Lyncas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lyncas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Domain\\MediatRExample.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Domain\\MediatRExample.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
             }
           },
           "imports": [
@@ -109,8 +242,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\Application\\MediatRExample.Application.csproj": {
+                "projectPath": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\Application\\MediatRExample.Application.csproj"
+              },
               "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Domain\\MediatRExample.Domain.csproj": {
                 "projectPath": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Domain\\MediatRExample.Domain.csproj"
+              },
+              "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Infrastructure\\MediatRExample.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Lyncas\\Documents\\Estágio\\estudos\\mediatR\\MediatRExample.Infrastructure\\MediatRExample.Infrastructure.csproj"
               }
             }
           }
@@ -125,9 +264,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "MediatR": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[12.2.0, )"
+              "version": "[11.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

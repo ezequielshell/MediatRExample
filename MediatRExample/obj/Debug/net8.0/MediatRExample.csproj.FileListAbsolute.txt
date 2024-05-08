@@ -118,7 +118,6 @@ C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\obj\Debug\net8
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\obj\Debug\net8.0\MediatRExample.AssemblyInfoInputs.cache
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\obj\Debug\net8.0\MediatRExample.AssemblyInfo.cs
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\obj\Debug\net8.0\MediatRExample.csproj.CoreCompileInputs.cache
-C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\obj\Debug\net8.0\MediatRExample.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\obj\Debug\net8.0\MediatRExample.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\obj\Debug\net8.0\staticwebassets.development.json
@@ -138,3 +137,9 @@ C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\bin\Debug\net8
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\bin\Debug\net8.0\MediatRExample.Domain.dll
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\bin\Debug\net8.0\MediatRExample.Domain.pdb
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\bin\Debug\net8.0\MediatRExample.Infrastructure.dll
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\bin\Debug\net8.0\MediatRExample.Infrastructure.pdb
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\obj\Debug\net8.0\MediatRExample.sourcelink.json
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\bin\Debug\net8.0\MediatRExample.Application.dll
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample\bin\Debug\net8.0\MediatRExample.Application.pdb
