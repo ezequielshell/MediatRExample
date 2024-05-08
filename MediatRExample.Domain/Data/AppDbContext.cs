@@ -1,4 +1,4 @@
-﻿using MediatRExample.Domain.Entity;
+﻿using MediatRExample.Domain.Entity; 
 using Microsoft.EntityFrameworkCore;
 
 namespace MediatRExample.Domain.Data

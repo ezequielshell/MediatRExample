@@ -12,3 +12,4 @@ C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Domain\obj\Deb
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Domain\obj\Debug\net8.0\MediatRExample.Domain.pdb
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Domain\obj\Debug\net8.0\MediatRExample.Domain.genruntimeconfig.cache
 C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Domain\obj\Debug\net8.0\ref\MediatRExample.Domain.dll
+C:\Users\Lyncas\Documents\Estágio\estudos\mediatR\MediatRExample.Domain\obj\Debug\net8.0\MediatRExample.Domain.sourcelink.json
